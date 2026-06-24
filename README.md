@@ -1,28 +1,3 @@
-🚀 Mustafijur Biplob
-WordPress Developer | PHP Master | Plugin Architect
-👋 Hi, I'm Mustafijur Biplob — a passionate WordPress Developer with a deep mastery of PHP and a love for building clean, scalable, and powerful plugins.
+I’m Mustafijur Biplob, a WordPress developer who spends most of my days deep in PHP, building custom plugins that actually make a difference. I don’t just write code to fill space—every line I write has a purpose, whether it’s solving a complex backend logic puzzle, optimizing database queries to shave off milliseconds of load time, or integrating third-party APIs to make two completely different systems talk to each other smoothly. What really gets me going is taking a rough idea and turning it into a fully functional, user-friendly web solution, all while keeping the architecture clean and the code secure enough to sleep well at night.
 
-🛠️ I specialize in crafting custom WordPress plugins that solve real-world problems, optimize performance, and enhance user experiences. Whether it's a complex functionality or a simple tweak, I write code that's efficient, secure, and maintainable.
-
-✨ What I Do:
-
-Develop custom WordPress plugins from scratch
-
-Optimize backend performance and database queries
-
-Create seamless integrations with third-party APIs
-
-Build responsive, dynamic, and user-friendly web solutions
-
-💡 I believe in writing code that not only works but also tells a story. Clean architecture, thoughtful design, and a dash of creativity — that's my recipe.
-
-🤝 Let's collaborate! I'm always open to exciting projects, plugin co-development, or brainstorming new ideas.
-
-📫 Reach out to me:
-GitHub • Portfolio
-
-⚡ Fun fact: I turn coffee into code and bugs into features.
-🔧 Current focus: Building next-gen WordPress plugins that make development easier for everyone.
-
-
---->
+Beyond the technical stuff, I believe good code tells a story—it should be intuitive, maintainable, and a little creative. Right now, I'm focused on building the next generation of WordPress plugins that simplify development for everyone, because I know how frustrating bloated plugins can be. If you're working on something exciting, whether it's a plugin collaboration or a complex web app, I'd love to chat. You can check out my work on GitHub or take a look at my portfolio at homeobiplob.com/rahman.html. And yes, I do turn coffee into code and bugs into features—it's just how my brain works.
